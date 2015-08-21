@@ -1,0 +1,12 @@
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\bin\Debug\cst238lab2.exe.config
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\bin\Debug\cst238lab2.exe
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\bin\Debug\cst238lab2.pdb
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\obj\Debug\cst238lab2.csprojResolveAssemblyReference.cache
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\obj\Debug\cst238lab2.Calculator.resources
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\obj\Debug\cst238lab2.Properties.Resources.resources
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\obj\Debug\cst238lab2.csproj.GenerateResource.Cache
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\obj\Debug\cst238lab2.exe
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\LABS\cst238lab2\cst238lab2\obj\Debug\cst238lab2.pdb
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\CalculatorWinForm\cst238lab2\bin\Debug\cst238lab2.exe.config
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\CalculatorWinForm\cst238lab2\obj\Debug\cst238lab2.exe
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\CalculatorWinForm\cst238lab2\obj\Debug\cst238lab2.pdb

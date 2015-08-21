@@ -1,0 +1,9 @@
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\bin\Debug\PaintAppWinForm.exe.config
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\bin\Debug\PaintAppWinForm.exe
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\bin\Debug\PaintAppWinForm.pdb
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\obj\Debug\PaintAppWinForm.csprojResolveAssemblyReference.cache
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\obj\Debug\PaintAppWinForm.formLab3.resources
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\obj\Debug\PaintAppWinForm.Properties.Resources.resources
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\obj\Debug\PaintAppWinForm.csproj.GenerateResource.Cache
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\obj\Debug\PaintAppWinForm.exe
+E:\Anthony Nguyen\Documents2\Programming_Projects\GUI\PaintWinForm\cst238lab3\obj\Debug\PaintAppWinForm.pdb

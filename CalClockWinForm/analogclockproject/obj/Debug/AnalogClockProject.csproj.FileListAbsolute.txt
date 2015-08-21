@@ -1,0 +1,9 @@
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\bin\Debug\AnalogClockProject.exe.config
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\bin\Debug\AnalogClockProject.exe
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\bin\Debug\AnalogClockProject.pdb
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\obj\Debug\AnalogClockProject.csprojResolveAssemblyReference.cache
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\obj\Debug\AnalogClockProject.AnalogClockForm.resources
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\obj\Debug\AnalogClockProject.Properties.Resources.resources
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\obj\Debug\AnalogClockProject.csproj.GenerateResource.Cache
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\obj\Debug\AnalogClockProject.exe
+E:\Anthony Nguyen\Documents2\COLLEGE\CST238_GUI\EXAMS\Exam2-AnalogClockWinForms\AnalogClockProject\obj\Debug\AnalogClockProject.pdb
